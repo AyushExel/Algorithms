@@ -37,7 +37,6 @@ class stack
 
 int main(int argc, char const *argv[])
 {   
-    auto v = std::vector<int>(1);
-    std::cout << v.size() << " "<< v[0];
+
     return 0;
 }
